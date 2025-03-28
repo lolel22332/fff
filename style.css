@@ -1,0 +1,102 @@
+body {
+    background-color: black;
+
+    font-family: 'Arial', sans-serif;
+}
+header {
+    background: rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+h2, h3, h4 {
+    text-align: center;
+}
+.hero h2 {
+    color: #1db954;
+}
+.hero p {
+    font-size: 1.2rem;
+    color: #f1c40f;
+}
+.btn-custom {
+    background: #1db954;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    transition: 0.3s;
+}
+.btn-custom:hover {
+    background: #14833b;
+}
+h3 {
+    color: #f1c40f;
+    text-transform: uppercase;
+}
+
+
+.plans .plan-btn {
+    display: block;
+    padding: 15px;
+    margin: 10px auto;
+    width: 80%;
+    font-size: 1.2rem;
+    font-weight: bold;
+    border-radius: 5px;
+    transition: 0.3s;
+}
+
+.plan-btn {
+    background-color: #34495e;
+    color: white;
+}
+
+.plan-btn.premium {
+    background-color: #f1c40f;
+}
+
+.plan-btn.platinum {
+    background-color: #e74c3c;
+}
+
+.plan-btn:hover {
+    opacity: 0.8;
+}
+.SS{
+}
+.reviewss{
+    margin-bottom: 50px;
+    margin-top: 200px;
+    text-align: center;
+}
+.sss{
+ text-align: center;
+    background-color:#007bff; 
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease; 
+}
+
+
+.sss:hover{
+    background-color: #0056b3; 
+}
+.ssss{
+    margin-left: 60px;
+    margin-bottom: 60px;
+    margin-right: 200px;
+    position: static;
+}
+.sigma{
+    width: 50px; height: 50px;
+}
